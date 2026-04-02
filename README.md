@@ -12,8 +12,7 @@ Currently into competitive programming and systems-level C/C++.
 
 ### Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert_1732-1a73e8?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Weeeeeeeeeeeee00)   112 problems solved
-
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert_1732-1a73e8?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Weeeeeeeeeeeee00)  
 ### Tech Stack
 
 <div align="left">
