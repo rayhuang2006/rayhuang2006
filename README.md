@@ -37,9 +37,6 @@ Currently into competitive programming and systems-level C/C++.
 ### Statistics
 
 <a href="https://github.com/rayhuang2006">
-  <img align="center" width="100%" src="./header.svg" />
-</a>
-<a href="https://github.com/rayhuang2006">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 <a href="https://github.com/rayhuang2006">
