@@ -34,9 +34,20 @@ Currently into competitive programming and systems-level C/C++.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="linux" />
 </div>
 
-### Stats
+### Statistics
 
-<div align="center">
-  <img src="./profile/stats.svg" height="150" alt="stats" />
-  <img src="./profile/top-langs.svg" height="150" alt="languages" />
-</div>
+<a href="https://github.com/rayhuang2006">
+  <img align="center" width="100%" src="./header.svg" />
+</a>
+<a href="https://github.com/rayhuang2006">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+<a href="https://github.com/rayhuang2006">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/rayhuang2006">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+<a href="https://github.com/rayhuang2006">
+  <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
