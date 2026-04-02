@@ -1,0 +1,86 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  header:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: rayhuang2006
+          template: classic
+          base: header
+          config_timezone: Asia/Taipei
+
+  acti_comm:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: acti_comm.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: rayhuang2006
+          template: classic
+          base: activity, community
+          config_timezone: Asia/Taipei
+
+  iso_calender:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: iso_calender.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: rayhuang2006
+          template: classic
+          base: ""
+          config_timezone: Asia/Taipei
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+  issue_pr_lang:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: issue_pr_lang.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: rayhuang2006
+          template: classic
+          base: ""
+          config_timezone: Asia/Taipei
+          plugin_followup: yes
+          plugin_languages: yes
+
+  repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: rayhuang2006
+          template: classic
+          base: repositories
+          config_timezone: Asia/Taipei
