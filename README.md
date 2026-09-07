@@ -5,7 +5,7 @@ Mathematics (Computation and Data Science) at National Central University, Taiwa
 ### What I am working on
 
 **Heavy tails, and the densities you cannot write down.**
-Some of the distributions that matter most in communication have a clean characteristic function and no elementary density, and everything you would want to say about detection over such a channel inherits that silence. I am interested in how much of it can be recovered analytically instead of numerically.
+My research is in molecular communication — signalling by releasing particles into a medium and reading when and where they arrive. The distributions that fall out of it are heavy-tailed, which in practice means a clean characteristic function, no elementary density, and a detection theory that inherits that silence everywhere it matters. I am interested in how much of it can be recovered analytically instead of numerically.
 
 **A combinatorial constant whose value nobody knows** — *in progress.*
 It comes from a sorting puzzle, it has been open since 2022, and the published bounds are far enough apart that the real question is which of the two is wrong. Mostly the work is learning to tell a genuine obstruction from a failure of imagination. The pieces that have settled are in [watersort-h3-proofs](https://github.com/rayhuang2006/watersort-h3-proofs); the general question is still open and the rest is still moving.
