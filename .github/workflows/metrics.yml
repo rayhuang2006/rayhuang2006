@@ -6,21 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  header:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: header.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: rayhuang2006
-          template: classic
-          base: header
-          config_timezone: Asia/Taipei
-
   acti_comm:
     runs-on: ubuntu-latest
     permissions:
