@@ -10,7 +10,7 @@ My research is in molecular communication — signalling by releasing particles 
 **A combinatorial constant whose value nobody knows.**
 Take n colours with h balls of each, pour them into n full bottles, and hand yourself k spare empty ones. A ball moves only off the top of a bottle, and only onto an empty bottle or onto its own colour. How small can k be and still guarantee that *every* starting position can be sorted? The quantity was posed as an open problem in 2022 and its value is still unknown. What I like about it is that it is not really one question — where the threshold sits, how hard it is to decide whether a given position is solvable at all, which configurations lock up and what makes them do it. There is a lot of room in there.
 
-<img src="./watersort.svg" width="100%" alt="A water sort puzzle: three bottles of mixed colours and one spare empty bottle, moved step by step until each bottle holds a single colour." />
+<img src="./watersort.svg" width="440" alt="A water sort puzzle: three bottles of mixed colours and one spare empty bottle, moved step by step until each bottle holds a single colour." />
 
 Both are ongoing and unpublished.
 
