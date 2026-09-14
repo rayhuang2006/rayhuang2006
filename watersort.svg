@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440.0 72.6" width="440" height="73" role="img" aria-label="A water sort puzzle: three bottles of mixed colours and one empty bottle, sorted step by step into monochromatic bottles.">
+<g transform="translate(5.50,67.10) scale(22.0,-22.0)">
+<path d="M 0 1.8 L 0 0.21 Q 0 0 0.21 0 L 0.79 0 Q 1 0 1 0.21 L 1 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="0.05" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<rect x="0.05" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<rect x="0.05" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<path d="M 1.5 1.8 L 1.5 0.21 Q 1.5 0 1.71 0 L 2.29 0 Q 2.5 0 2.5 0.21 L 2.5 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="1.55" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<rect x="1.55" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<rect x="1.55" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<path d="M 3 1.8 L 3 0.21 Q 3 0 3.21 0 L 3.79 0 Q 4 0 4 0.21 L 4 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="3.05" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<rect x="3.05" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<rect x="3.05" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<path d="M 4.5 1.8 L 4.5 0.21 Q 4.5 0 4.71 0 L 5.29 0 Q 5.5 0 5.5 0.21 L 5.5 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<path d="M 7 1.8 L 7 0.21 Q 7 0 7.21 0 L 7.79 0 Q 8 0 8 0.21 L 8 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="7.05" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<rect x="7.05" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<rect x="7.05" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<path d="M 8.5 1.8 L 8.5 0.21 Q 8.5 0 8.71 0 L 9.29 0 Q 9.5 0 9.5 0.21 L 9.5 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="8.55" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<rect x="8.55" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<rect x="8.55" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<path d="M 10 1.8 L 10 0.21 Q 10 0 10.21 0 L 10.79 0 Q 11 0 11 0.21 L 11 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="10.05" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<rect x="10.05" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<path d="M 11.5 1.8 L 11.5 0.21 Q 11.5 0 11.71 0 L 12.29 0 Q 12.5 0 12.5 0.21 L 12.5 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="11.55" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<path d="M 14 1.8 L 14 0.21 Q 14 0 14.21 0 L 14.79 0 Q 15 0 15 0.21 L 15 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="14.05" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<rect x="14.05" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<rect x="14.05" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#e05c5c"/>
+<path d="M 15.5 1.8 L 15.5 0.21 Q 15.5 0 15.71 0 L 16.29 0 Q 16.5 0 16.5 0.21 L 16.5 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="15.55" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<rect x="15.55" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<rect x="15.55" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#5b8dd6"/>
+<path d="M 17 1.8 L 17 0.21 Q 17 0 17.21 0 L 17.79 0 Q 18 0 18 0.21 L 18 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<path d="M 18.5 1.8 L 18.5 0.21 Q 18.5 0 18.71 0 L 19.29 0 Q 19.5 0 19.5 0.21 L 19.5 1.8" fill="none" stroke="#9aa0a6" stroke-width="0.14" stroke-linecap="round"/>
+<rect x="18.55" y="0.05" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<rect x="18.55" y="0.6" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<rect x="18.55" y="1.15" width="0.9" height="0.5" rx="0.105" fill="#5cb87a"/>
+<path d="M 5.8 0.9 L 6.34 0.9" stroke="#88a9c9" stroke-width="0.14" stroke-linecap="round"/>
+<path d="M 6.6 0.9 L 6.26 0.72 L 6.34 0.9 L 6.26 1.08 Z" fill="#88a9c9"/>
+<path d="M 12.8 0.9 L 13.34 0.9" stroke="#88a9c9" stroke-width="0.14" stroke-linecap="round"/>
+<path d="M 13.6 0.9 L 13.26 0.72 L 13.34 0.9 L 13.26 1.08 Z" fill="#88a9c9"/>
+</g>
+<text x="38.5" y="13.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.2" font-weight="600" fill="#9aa0a6">Initial</text>
+<text x="192.5" y="13.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.2" font-weight="600" fill="#9aa0a6">In Progress</text>
+<text x="346.5" y="13.9" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9.2" font-weight="600" fill="#9aa0a6">Goal</text>
+</svg>

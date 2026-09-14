@@ -7,10 +7,12 @@ Mathematics (Computation and Data Science) at National Central University, Taiwa
 **Heavy tails, and the densities you cannot write down.**
 My research is in molecular communication — signalling by releasing particles into a medium and reading when and where they arrive. The distributions that fall out of it are heavy-tailed, which in practice means a clean characteristic function, no elementary density, and a detection theory that inherits that silence everywhere it matters. I am interested in how much of it can be recovered analytically instead of numerically.
 
-**A combinatorial constant whose value nobody knows** — *in progress.*
-It comes from a sorting puzzle, it has been open since 2022, and the published bounds are far enough apart that the real question is which of the two is wrong. Mostly the work is learning to tell a genuine obstruction from a failure of imagination. The pieces that have settled are in [watersort-h3-proofs](https://github.com/rayhuang2006/watersort-h3-proofs); the general question is still open and the rest is still moving.
+**A combinatorial constant whose value nobody knows.**
+Take n colours with h balls of each, pour them into n full bottles, and hand yourself k spare empty ones. A ball moves only off the top of a bottle, and only onto an empty bottle or onto its own colour. How small can k be and still guarantee that *every* starting position can be sorted? The quantity was posed as an open problem in 2022 and its value is still unknown. What I like about it is that it is not really one question — where the threshold sits, how hard it is to decide whether a given position is solvable at all, which configurations lock up and what makes them do it. There is a lot of room in there.
 
-Both lines are ongoing. The other one stays private until it is written up.
+<img src="./watersort.svg" width="100%" alt="A water sort puzzle: three bottles of mixed colours and one spare empty bottle, moved step by step until each bottle holds a single colour." />
+
+Both are ongoing and unpublished.
 
 ### Things I have built
 
