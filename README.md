@@ -1,6 +1,6 @@
 ## Ray Huang
 
-Division of Computational and Data Sciences, Department of Mathematics, National Central University, Taiwan, with a second major in Communication Engineering. Research is what I actively push on. The projects below are what happens when something catches my interest; they are closer to how I relax than to work.
+Division of Computational and Data Sciences, Department of Mathematics, National Central University, Taiwan, with a second major in Communication Engineering. Research is what I actively push on. The projects below are what happens when something catches my interest; they, and the contests further down, are closer to how I relax than to work.
 
 ### What I am working on
 
@@ -26,7 +26,8 @@ Mostly tools I wanted to exist, plus a long-running habit of writing the layer u
 
 ### Competitive Programming
 
-Codeforces Expert — [Weeeeeeeeeeeee00](https://codeforces.com/profile/Weeeeeeeeeeeee00). C++, and a team at NCPC. Also leisure, and the reason the C++ in everything above is what it is.
+- **[Codeforces](https://codeforces.com/profile/Weeeeeeeeeeeee00)** — Expert. My main platform, and where most of the C++ above got its habits.
+- **NCPC** — on-site, as team woowoowoo.
 
 ### Tools
 
