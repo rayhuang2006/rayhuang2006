@@ -16,7 +16,7 @@ Both are ongoing and unpublished.
 
 ### Things I have built
 
-Mostly tools I wanted to exist, plus a long-running habit of writing the layer underneath instead of importing it — a language of my own, a renderer, a wire protocol — because reading how they work never stuck the way building one did.
+The fun is usually in the layer underneath, so it tends to get written rather than imported — a language of my own, a renderer, a wire protocol.
 
 - **[asymptote](https://github.com/rayhuang2006/asymptote)** — VS Code extension for competitive programmers, on the Marketplace. Parses C++ into a tree-sitter AST and derives time complexity from loop nesting and recursion depth rather than pattern-matching, and fetches Codeforces samples to run in the editor. TypeScript.
 - **[Loophole](https://github.com/rayhuang2006/Loophole)** — a language for wishing against a genie, and the compiler that decides whether your wish was legal. Wishes are written in one file and the genie's own rules in another; the compiler charges the toll, runs the arithmetic on a narrow unsigned counter, and reports which invariant you broke on the way. Single-file C++17, no dependencies, with a [browser playground](https://rayhuang2006.github.io/Loophole/) and [editor support](https://github.com/rayhuang2006/loophole-vscode) whose diagnostics come from the compiler itself compiled to WebAssembly.
