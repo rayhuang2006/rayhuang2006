@@ -27,7 +27,7 @@ Mostly tools I wanted to exist, plus a long-running habit of writing the layer u
 ### Competitive Programming
 
 - **[Codeforces](https://codeforces.com/profile/Weeeeeeeeeeeee00)** — Expert. My main platform, and where most of the C++ above got its habits.
-- **NCPC** — on-site, as team woowoowoo.
+- **NCPC** — Taiwan's national collegiate programming contest. Reached the 2025 final as team woowoowoo.
 
 ### Tools
 
