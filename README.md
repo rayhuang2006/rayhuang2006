@@ -26,7 +26,7 @@ Mostly tools I wanted to exist, plus a long-running habit of writing the layer u
 
 ### Competitive Programming
 
-Codeforces Expert — [Weeeeeeeeeeeee00](https://codeforces.com/profile/Weeeeeeeeeeeee00). C++.
+Codeforces Expert — [Weeeeeeeeeeeee00](https://codeforces.com/profile/Weeeeeeeeeeeee00). C++, and a team at NCPC. Also leisure, and the reason the C++ in everything above is what it is.
 
 ### Tools
 
