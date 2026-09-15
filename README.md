@@ -1,6 +1,6 @@
 ## Ray Huang
 
-Mathematics (Computation and Data Science) at National Central University, Taiwan, with a second major in Communication Engineering. I work on probability models and signal detection, and I write a lot of C++.
+Division of Computational and Data Sciences, Department of Mathematics, National Central University, Taiwan, with a second major in Communication Engineering. I work on probability models and signal detection, and I write a lot of C++.
 
 ### What I am working on
 
