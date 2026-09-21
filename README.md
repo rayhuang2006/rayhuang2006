@@ -26,7 +26,7 @@ The fun is usually in the layer underneath, so it tends to get written rather th
 
 ### Competitive Programming
 
-- **ICPC Asia Taiwan Online Programming Contest, 2026** — 11th overall, and the highest-placed team from NCU, as woowoowoo.
+- **ICPC Asia Taiwan Online Programming Contest, 2026** — 11th overall, as team woowoowoo.
 - **NCPC, 2025** — reached the final of Taiwan's national collegiate contest with the same team.
 - **[Codeforces](https://codeforces.com/profile/Weeeeeeeeeeeee00)** — Expert. My main platform, and where most of the C++ above got its habits.
 
